@@ -1,0 +1,1 @@
+<img src="print" alt="calc IMC">
